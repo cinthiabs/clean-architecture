@@ -1,0 +1,12 @@
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\bin\Debug\net5.0\CleanArchitectureMvc.Domain.deps.json
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\bin\Debug\net5.0\CleanArchitectureMvc.Domain.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\bin\Debug\net5.0\ref\CleanArchitectureMvc.Domain.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\bin\Debug\net5.0\CleanArchitectureMvc.Domain.pdb
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.csproj.AssemblyReference.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.AssemblyInfoInputs.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.AssemblyInfo.cs
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.csproj.CoreCompileInputs.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\ref\CleanArchitectureMvc.Domain.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Domain\obj\Debug\net5.0\CleanArchitectureMvc.Domain.pdb
