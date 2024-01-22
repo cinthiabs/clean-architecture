@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JL2efGy8zMGxq9CIJewgGHxs1gVfjrHrn3HxW3B4vpbcPhZ54m13UDqTg2nxrNSdab5epv/CjDBshiY0y8pCZw==",
+  "dgSpecHash": "B7xI2GFV0xVxKiJMlNp23hUXHXUI2f1zNwR18GIvv4wBMVPrrH6n+vkPXSN1ld9Q4uAxDhtjKSZ0afanGP8vQA==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.Infra.Data\\CleanArchitectureMvc.Infra.Data.csproj",
   "expectedPackageFiles": [

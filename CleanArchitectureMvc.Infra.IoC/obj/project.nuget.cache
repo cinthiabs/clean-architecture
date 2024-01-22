@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "2E3B98zP6/pnoGwOkuf4CRfUyBYsIF9iAtSOZ/OFwsJw5Iym+SpyYLnbQxb+1DSS8Wd1wmkijBoKghw4NOIxWw==",
+  "dgSpecHash": "XdfwT2wVBzIXSq+dkPxbCxpzrSDe8kXIIfVe1OKDSE9ZgHcCOx/8FgSsGPp9UnywE6o0HnH7OMz97pibWdYS/A==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.Infra.IoC\\CleanArchitectureMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
