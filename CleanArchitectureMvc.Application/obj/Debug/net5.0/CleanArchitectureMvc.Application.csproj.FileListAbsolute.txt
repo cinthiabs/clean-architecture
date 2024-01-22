@@ -1,6 +1,5 @@
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\CleanArchitectureMvc.Application.deps.json
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\CleanArchitectureMvc.Application.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\ref\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\CleanArchitectureMvc.Application.pdb
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\CleanArchitectureMvc.Domain.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\bin\Debug\net5.0\CleanArchitectureMvc.Domain.pdb
@@ -13,3 +12,4 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\C
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\ref\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\CleanArchitectureMvc.Application.pdb
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\refint\CleanArchitectureMvc.Application.dll

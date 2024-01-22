@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CleanArchitectureMvc.Infra.Data",
+    "\\CleanArchitectureMvc.Infra.Data\\Context",
+    "\\CleanArchitectureMvc.Infra.Data\\EntitiesConfiguration",
+    "\\CleanArchitectureMvc.WebUI"
+  ],
+  "SelectedNode": "\\CleanArchitectureMvc.WebUI\\CleanArchitectureMvc.WebUI.csproj",
+  "PreviewInSolutionExplorer": false
+}

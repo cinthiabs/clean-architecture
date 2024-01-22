@@ -1,6 +1,5 @@
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.deps.json
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchitectureMvc.Infra.IoC.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.pdb
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Domain.dll
@@ -17,3 +16,7 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\Cle
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitectureMvc.Infra.IoC.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.pdb
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.runtimeconfig.json
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.runtimeconfig.dev.json
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\refint\CleanArchitectureMvc.Infra.IoC.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.genruntimeconfig.cache
