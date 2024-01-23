@@ -1,4 +1,6 @@
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.deps.json
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.runtimeconfig.json
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.runtimeconfig.dev.json
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\ref\CleanArchitectureMvc.Infra.Data.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.pdb
@@ -13,3 +15,4 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\obj\Debug\net5.0\Cl
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\obj\Debug\net5.0\CleanArchitectureMvc.Infra.Data.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\obj\Debug\net5.0\ref\CleanArchitectureMvc.Infra.Data.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\obj\Debug\net5.0\CleanArchitectureMvc.Infra.Data.pdb
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.Data\obj\Debug\net5.0\CleanArchitectureMvc.Infra.Data.genruntimeconfig.cache
