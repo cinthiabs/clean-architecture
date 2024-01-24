@@ -12,3 +12,4 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\C
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\ref\CleanArchitectureMvc.Application.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\CleanArchitectureMvc.Application.pdb
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Application\obj\Debug\net5.0\CleanArchitectureMvc.Application.csproj.AssemblyReference.cache

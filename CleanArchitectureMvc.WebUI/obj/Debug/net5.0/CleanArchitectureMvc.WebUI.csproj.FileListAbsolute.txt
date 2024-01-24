@@ -98,7 +98,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Mi
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Configuration.Xml.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
@@ -124,8 +123,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Mi
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.ObjectPool.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Options.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.Primitives.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Extensions.WebEncoders.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.JSInterop.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Microsoft.Net.Http.Headers.dll
@@ -224,7 +221,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\Sy
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Reader.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.ResourceManager.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Resources.Writer.dll
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.Unsafe.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.CompilerServices.VisualC.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\refs\System.Runtime.Extensions.dll
@@ -378,8 +374,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\scopedc
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanArchitectureMvc.WebUI.TagHelpers.input.cache
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanArchitectureMvc.WebUI.TagHelpers.output.cache
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanArchitectureMvc.WebUI.RazorCoreGenerate.cache
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -393,3 +387,11 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanAr
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\ref\CleanArchitectureMvc.WebUI.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanArchitectureMvc.WebUI.pdb
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\CleanArchitectureMvc.WebUI.genruntimeconfig.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\AutoMapper.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
