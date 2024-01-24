@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "I84nTpIz8/3heU+DIevGvWth57m+XIX5L0jfi2BWqLTTw/8cR8jRJB0H3/sgLk032UWtWGyRYOg6QyJ8dE+uKQ==",
+  "dgSpecHash": "SSnwcUMa4MyngWz+QruI3TAMmBiEz4MJAQdyc2tZ/kjMZaCxzTNRRywFFsDMLA1JLJXiLTotGPjySJXTS1q+oQ==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.Infra.IoC\\CleanArchitectureMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

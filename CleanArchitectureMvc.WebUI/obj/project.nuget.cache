@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "UXkxVqkta7bAEsQIAfSAezj4zAFmXKCqrpRAZVanhMljF3Jdat9SKu6cfWadZ/FpT7K4KWZPwA6kg6wnPh3jBA==",
+  "dgSpecHash": "vkt8KT28xsONqHdxfufGUBd89HJXm40YutW+LvMfb9IgQlObrfvJJjks0Y0ETIm7s057aHMXSPPEBt65H9EL8A==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.WebUI\\CleanArchitectureMvc.WebUI.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
