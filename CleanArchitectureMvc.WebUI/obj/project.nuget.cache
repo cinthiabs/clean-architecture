@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XLZJEnxmsIxWJDryybhN32TN+o7y7brDKxMv3Ay7YN76dlwHydpoNLo8Qb4QQSxOR3i1W1DY8mfdOAcuQ8hNrw==",
+  "dgSpecHash": "7jnPqN367GORGh3XNjnJyCHTHbPvdaXcvkwtiXg9c4TXFuLjHywZN9H2ygaEfOLLb0fFDzFMzbsEPP+BI4AWuw==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.WebUI\\CleanArchitectureMvc.WebUI.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.0\\mediatr.extensions.microsoft.dependencyinjection.10.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.17\\microsoft.aspnetcore.mvc.razor.extensions.5.0.17.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\5.0.17\\microsoft.aspnetcore.mvc.razor.runtimecompilation.5.0.17.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\5.0.17\\microsoft.aspnetcore.razor.language.5.0.17.nupkg.sha512",

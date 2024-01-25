@@ -1,3 +1,8 @@
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.csproj.AssemblyReference.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.AssemblyInfoInputs.cache
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.AssemblyInfo.cs
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.deps.json
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.runtimeconfig.json
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.runtimeconfig.dev.json
@@ -10,11 +15,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\Cle
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Application.pdb
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Domain.pdb
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\bin\Debug\net5.0\CleanArchitectureMvc.Infra.Data.pdb
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.csproj.AssemblyReference.cache
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.AssemblyInfoInputs.cache
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.AssemblyInfo.cs
-C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.csproj.CoreCompileInputs.cache
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.csproj.CopyComplete
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\CleanArchitectureMvc.Infra.IoC.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchitectureMvc.Infra.IoC.dll

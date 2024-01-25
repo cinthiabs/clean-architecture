@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "7UDZhEzV80wjfNFpY4Zzbc320130MoeJrDHdN4gPovKz41lAjmCNHhiqVA1W4eWAGg9U+CyPvObEpERW1/xfeQ==",
+  "dgSpecHash": "bLCPt9R/HL4m0TWkjqOzSAyVb9js9gIpNx7ys7VP707XXPX21RZB7R/FB9YhdR/1DDAPakabffb+TgqylNsFvw==",
   "success": true,
   "projectFilePath": "C:\\GITHUB\\clean-architecture\\CleanArchitectureMvc.Infra.IoC\\CleanArchitectureMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
@@ -9,6 +9,7 @@
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\10.0.0\\mediatr.extensions.microsoft.dependencyinjection.10.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\8.0.0\\microsoft.bcl.asyncinterfaces.8.0.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\LENOVO-EQP364\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
