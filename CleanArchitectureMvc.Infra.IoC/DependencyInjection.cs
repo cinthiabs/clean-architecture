@@ -9,6 +9,9 @@ using CleanArchitectureMvc.Application.Services;
 using CleanArchitectureMvc.Application.Mappings;
 using System;
 using MediatR;
+using CleanArchitectureMvc.Infra.Data.Identity;
+using Microsoft.AspNetCore.Identity;
+using CleanArchitectureMvc.Domain.Account;
 
 namespace CleanArchitectureMvc.Infra.IoC
 {
@@ -19,11 +22,21 @@ namespace CleanArchitectureMvc.Infra.IoC
             services.AddDbContext<ApplicationDbContext>(options => options.UseSqlServer(configuration.GetConnectionString("DefaultConnection"
                 ), b => b.MigrationsAssembly(typeof(ApplicationDbContext).Assembly.FullName)));
 
+            services.AddIdentity<ApplicationUser, IdentityRole>()
+                .AddEntityFrameworkStores<ApplicationDbContext>()
+                .AddDefaultTokenProviders();
+
+            services.ConfigureApplicationCookie(options => options.AccessDeniedPath = "/Account/Login");
+          
             services.AddScoped<ICategoryRepository, CategoryRepository>();
             services.AddScoped<IProductRepository, ProductRepository>();
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IAuthenticate, AuthenticateService>();
+            services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
             services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+        
 
             //var myhandlers = AppDomain.CurrentDomain.Load("CleanArchitectureMvc.Application");
             //services.AddMediatR(myhandlers);
