@@ -73,7 +73,8 @@ namespace CleanArchitectureMvc.API
             }
 
             app.UseHttpsRedirection();
-
+            //retorno do status da melhor forma para o usuario
+            app.UseStatusCodePages();
             app.UseRouting();
             app.UseAuthentication();
             app.UseAuthorization();
