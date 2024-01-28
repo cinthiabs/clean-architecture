@@ -26,10 +26,8 @@ namespace CleanArchitectureMvc.Application.DTOs
         public string Description { get; set; }
 
         [Required(ErrorMessage = "The Price is Required")]
-        //[Column(TypeName = "decimal(18,2)")]
-        //[DisplayFormat(DataFormatString ="{0:C2}")]
-        [MinLength(3)]
-        [MaxLength(100)]
+        [Column(TypeName = "decimal(18,2)")]
+        [DisplayFormat(DataFormatString ="{0:C2}")]
         [DisplayName("Price")]
         public decimal Price { get; set; }
         

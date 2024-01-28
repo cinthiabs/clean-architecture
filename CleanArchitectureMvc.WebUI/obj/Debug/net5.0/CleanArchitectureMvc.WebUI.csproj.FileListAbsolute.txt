@@ -410,3 +410,6 @@ C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microso
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Account\Register.cshtml.g.cs
+C:\GITHUB\clean-architecture\CleanArchitectureMvc.WebUI\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
