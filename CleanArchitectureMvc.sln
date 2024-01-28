@@ -15,7 +15,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureMvc.WebUI"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureMvc.Domain.Tests", "CleanArchitectureMvc.Domain.Tests\CleanArchitectureMvc.Domain.Tests.csproj", "{B01A70FA-C2E6-4412-AE5D-06C071A9BFD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanArchitectureMvc.API", "CleanArchitectureMvc.API\CleanArchitectureMvc.API.csproj", "{337860E4-94C1-4B1D-97FF-275DF3366C98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanArchitectureMvc.API", "CleanArchitectureMvc.API\CleanArchitectureMvc.API.csproj", "{337860E4-94C1-4B1D-97FF-275DF3366C98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
